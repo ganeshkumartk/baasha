@@ -1,1 +1,58 @@
-
+{
+  "name": "baasha",
+  "version": "100.100.100",
+  "description": "Need a product name? Ask Baasha!",
+  "main": "index.js",
+  "bin": {
+    "baasha": "cli.js"
+  },
+  "files": [
+    "cli.js",
+    "index.js",
+    "words.json"
+  ],
+  "scripts": {
+    "test": "standard",
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderganesh/baasha.git"
+  },
+  "keywords": [
+    "app",
+    "name",
+    "baasha",
+    "productdesign",
+    "design",
+    "sergile",
+    "marketing",
+    "product",
+    "fun",
+    "silly",
+    "yusss!"
+  ],
+  "author": {
+    "name": "Ganesh Kumar T K",
+    "email": "ganeshkumartk@outlook.com",
+    "url": "https://coderganesh.github.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coderganesh/baasha/issues"
+  },
+  "homepage": "https://github.com/coderganesh/baasha#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "figlet": "^1.2.0",
+    "random-int": "^1.0.0",
+    "sywac": "^1.1.0",
+    "unique-random-array": "^1.0.0"
+  },
+  "devDependencies": {
+    "jsonfile": "^3.0.1",
+    "linebyline": "^1.3.0",
+    "standard": "^10.0.3",
+    "standard-version": "^4.2.0"
+  }
+}
