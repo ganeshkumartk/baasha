@@ -1,6 +1,6 @@
 # Baasha ![npm](https://img.shields.io/npm/v/baasha.svg)
 
-![Baasha](https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/A1DQ4YPN2B87YV/959fae1b-5f1d-4c7e-8ddb-ac1a5d5c0459._CR120,0,360,180_PT0_SX350__.png)
+![Baasha](https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/A1DQ4YPN2B87YV/959fae1b-5f1d-4c7e-8ddb-ac1a5d5c0459._CR120,0,360,180_PT0_SX350__.png) [![NPM](https://nodei.co/npm/baasha.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/baasha/)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/just-plain-nasty.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/powered-by-netflix.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 # Need a product name? Ask Baasha!
