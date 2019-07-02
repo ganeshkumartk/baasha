@@ -1,4 +1,4 @@
-# Baasha ![npm](https://img.shields.io/npm/v/baasha.svg)
+# Baasha ![npm](https://img.shields.io/npm/v/baasha.svg) [![HitCount](http://hits.dwyl.io/coderganesh/baasha.svg)](http://hits.dwyl.io/coderganesh/baasha)
 
 ![Baasha](https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/A1DQ4YPN2B87YV/959fae1b-5f1d-4c7e-8ddb-ac1a5d5c0459._CR120,0,360,180_PT0_SX350__.png) [![NPM](https://nodei.co/npm/baasha.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/baasha/)
 
